@@ -1,3 +1,6 @@
 ingresando comentariojj
 jsjsjsjsjsjsjsjsjs
 edicion 
+dsddss
+
+git merge ramamein // para unir dos ramas
